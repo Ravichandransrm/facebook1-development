@@ -1,2 +1,2 @@
 # facebook1-development
-this is yo develop chat application
+this is to develop chat application
